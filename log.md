@@ -8,3 +8,9 @@
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/slice-and-splice
 
+### Day 1: June 4, Saturday, 2020 
+
+**Today's Progress**: I am trying to learn NoSQL (mongoDB and mongoose) and I manage to connect to my DB with out errors. Still a long way to go.
+
+**Thoughts**: Totally New concept, but it was fun as much as it was devastating trying to figure out 30 lines of errors for 10 lines of code. I love coding 😊
+
