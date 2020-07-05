@@ -14,3 +14,9 @@
 
 **Thoughts**: Totally New concept, but it was fun as much as it was devastating trying to figure out 30 lines of errors for 10 lines of code. I love coding 😊
 
+
+### Day 2: June 5, Sunday, 2020 
+
+**Today's Progress**: I finsihed freeCodeCamps remaining two challeneges from Baic Scripting Algorithm Module. Getting closer to the certificate.
+
+**Thoughts**: printing what you are doing is a wonderful debugging tool 😊. Other than that try to tackle every problem by dividing to small chunks and beat them step by step after. 
