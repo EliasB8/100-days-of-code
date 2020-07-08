@@ -28,3 +28,9 @@
 **Today's Progress**: I finsihed 35% of freeCodeCamps OOP module.
 
 **Thoughts**: this is important in OOP no I don't meant this post I meant this.keyword. 🤣
+
+
+
+### Day 4: June 7, Tuesday, 2020 
+
+**Today's Progress**: Today I learned about React and JSX. Using sandbox
