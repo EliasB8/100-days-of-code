@@ -33,4 +33,12 @@
 
 ### Day 4: June 7, Tuesday, 2020 
 
-**Today's Progress**: Today I learned about React and JSX. Using sandbox
+**Today's Progress**: Today I learned about React and JSX. Using sandbox.
+
+ 
+### Day 5 and 6: June 9, Thursday, 2020 
+
+**Today's Progress**: I finsihed freeCodeCamps OOP module yeyy.
+
+**Thoughts**: Sometimes you will get stuck, you will feel stupid but it is important to believe in yourself. If u blv in urself nobody can stop u. NOBODY
+
