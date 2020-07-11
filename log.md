@@ -42,3 +42,9 @@
 
 **Thoughts**: Sometimes you will get stuck, you will feel stupid but it is important to believe in yourself. If u blv in urself nobody can stop u. NOBODY
 
+
+### Day 7: June 10, Friday, 2020 
+
+**Today's Progress**: Today I learned about git and some git commands on comand line I have also learned about npm package manager and node to configure lite-server and bootstrap.
+
+**Thoughts**: The command line is a great tool there is I LOVE IT!!
