@@ -55,3 +55,10 @@
 **Today's Progress**: Today I learned about Boostrap grid, navigatoin, breadcrumbs and icon fonts. 
 
 **Thoughts**: I LOVE BOOTSTRAP!
+
+
+### Day 9: June 12, Sunday, 2020 
+
+**Today's Progress**: Today I learned about Boostrap buttons and forms. Working on an assignment from a course on coursera. 
+
+**Thoughts**: Repetition * Repetition = Mastery.
