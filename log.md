@@ -66,6 +66,8 @@
 
 ### Day 10: June 13, Monday, 2020 
 
-**Today's Progress**: Today I started the functional programming module of fcc's JS Certificate. I completed 35% of this moudle. Functional Programming is a whole new dimension of programming. I struggled a bit in the challenges due to arrays and passing them by reference or by value. Then Googling helped. 
+**Today's Progress**: Today I started the functional programming module of fcc's JS Certificate. I completed 25% of this moudle. Functional Programming is a whole new dimension of programming. I struggled a bit in the challenges due to arrays and passing them by reference or by value. Then Googling helped. 
 
 **Thoughts**: Google is my bff. I really admire the developers that existed before GOOGLE. They should be very very special. 🤣
+
+**Link to work:** this took me a while to solve, https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/refactor-global-variables-out-of-functions
