@@ -71,3 +71,12 @@
 **Thoughts**: Google is my bff. I really admire the developers that existed before GOOGLE. They should be very very special. 🤣
 
 **Link to work:** this took me a while to solve, https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/refactor-global-variables-out-of-functions
+
+
+
+### Day 11: June 14, Tuesday, 2020 
+
+**Today's Progress**: Today I continued in the coursera course first module second week and learned about Boostrap alerts, badges, medias and cards.
+
+**Thoughts**: Bootstrap do make things very easy, but you need to visit their documentation so often to remember the class names 🤣. 
+
