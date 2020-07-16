@@ -80,3 +80,9 @@
 
 **Thoughts**: Bootstrap do make things very easy, but you need to visit their documentation so often to remember the class names 🤣. 
 
+
+### Day 12: June 15, Wednesday, 2020 
+
+**Today's Progress**: Today I finished the second week in the coursera course first module and submitted my assignment which was challenging and it was about Boostrap forms, cards, media-objects and Images.
+
+**Thoughts**: It's not working because u missed a closing tag  for the div you just added. 
