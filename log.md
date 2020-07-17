@@ -86,3 +86,10 @@
 **Today's Progress**: Today I finished the second week in the coursera course first module and submitted my assignment which was challenging and it was about Boostrap forms, cards, media-objects and Images.
 
 **Thoughts**: It's not working because u missed a closing tag  for the div you just added. 
+
+
+### Day 13: June 16, Thursday, 2020 
+
+**Today's Progress**: Today I continued on freeCodeCamp funcitonal programming course and reached 63% from 25% quiet challenging but map, filter and reduce are powerful array prototype functions.
+
+**Thoughts**: JS and it's built in functions. So powerful!!  
