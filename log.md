@@ -93,3 +93,10 @@
 **Today's Progress**: Today I continued on freeCodeCamp funcitonal programming course and reached 63% from 25% quiet challenging but map, filter and reduce are powerful array prototype functions.
 
 **Thoughts**: JS and it's built in functions. So powerful!!  
+
+### Day 14: June 17, Friday, 2020 
+
+**Today's Progress**: Today I finished the third week in the coursera course first module and submitted my third assignment which was about Boostrap modals.
+
+**Thoughts**: The best feeling is seeing your first written code execute as it is supposed to.
+
