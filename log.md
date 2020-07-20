@@ -100,3 +100,9 @@
 
 **Thoughts**: The best feeling is seeing your first written code execute as it is supposed to.
 
+### Day 15 and 16: June 19, Sunday, 2020 
+
+**Today's Progress**: Learned about Saas and Less they are a very wonderful tools in the world of css. I have submitted my final assignment for the bootstrap 4 course ... a few lessons left before I get my certificate on the coursera course. I have also Learned about Uglyfication, minification, and a lotfication. Npm scripts are really helpful in automating your work for deployment.
+
+**Thoughts**: It is fun to be a developer.
+
