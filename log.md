@@ -106,3 +106,11 @@
 
 **Thoughts**: It is fun to be a developer.
 
+
+### Day 17: June 20, Monday, 2020 
+
+**Today's Progress**:  completed Front-End Web UI Frameworks and Tools: Bootstrap 4 on COursera! Check out my certificate https://coursera.org/share/6ba482a465d016e178518c198586fc67 I am working on a project based on what I learend in the course.
+
+**Thoughts**: Celebration time come on!!!!!!!!!!!!!
+
+**Link to work:** https://github.com/EliasB8/Yeneta-Tereka.git
