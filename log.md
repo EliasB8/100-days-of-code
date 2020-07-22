@@ -114,3 +114,12 @@
 **Thoughts**: Celebration time come on!!!!!!!!!!!!!
 
 **Link to work:** https://github.com/EliasB8/Yeneta-Tereka.git
+
+
+### Day 18: June 21, Tueday, 2020 
+
+**Today's Progress**: I completed the project I was working on using bootstrap 4, sass, css, and html and it is fully responsive. It is live on github. It is only front-end but yeyyyy for me!!
+
+**Thoughts**: Celebration time come on!!!!!!!!!!!!!
+
+**Link to work:** https://eliasb8.github.io/yeneta-tereka-site/
