@@ -123,3 +123,10 @@
 **Thoughts**: Celebration time come on!!!!!!!!!!!!!
 
 **Link to work:** https://eliasb8.github.io/yeneta-tereka-site/
+
+
+### Day 19: June 22, Wednesday, 2020 
+
+**Today's Progress**: Today I continued on the functional programming module of @freeCodeCamp and completed the module left with two modules to get my certeficate so excited.
+
+**Thoughts**: Functional Programming make me say this "If I have seen further, it is by standing on the shoulders of giants." 
