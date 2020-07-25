@@ -130,3 +130,13 @@
 **Today's Progress**: Today I continued on the functional programming module of @freeCodeCamp and completed the module left with two modules to get my certeficate so excited.
 
 **Thoughts**: Functional Programming make me say this "If I have seen further, it is by standing on the shoulders of giants." 
+
+### Day 20 and 21: June 23, Friday, 2020 
+
+**Today's Progress**: I learned about React from a udemy course by Dr Angela. Succesfully completed most ot the challenge, learned a lot about react hooks and states. The last challenge was applying a functionality on the to do list app.
+
+**Thoughts**: When in doubt, console log a lot.
+
+**Link to Work**: https://zxe0y.csb.app/
+
+
