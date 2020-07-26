@@ -131,7 +131,7 @@
 
 **Thoughts**: Functional Programming make me say this "If I have seen further, it is by standing on the shoulders of giants." 
 
-### Day 20 and 21: June 23, Friday, 2020 
+### Day 20 and 21: June 24, Friday, 2020 
 
 **Today's Progress**: I learned about React from a udemy course by Dr Angela. Succesfully completed most ot the challenge, learned a lot about react hooks and states. The last challenge was applying a functionality on the to do list app.
 
@@ -139,4 +139,9 @@
 
 **Link to Work**: https://zxe0y.csb.app/
 
+### Day 22: June 25, Saturday, 2020 
+
+**Today's Progress**: Today I continued on the Intermidiate Algorithm Scripting module of @freeCodeCamp and completed 4 out of 21 challenges at 19%.It is really interesting and challenging, too many options in array functions.
+
+**Thoughts**: Having multiple choices, could make easy decissions tough. I use array functions a lot I forgot the power of for loops, while loops and things like that.
 
