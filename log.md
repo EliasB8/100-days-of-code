@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: June 3, Friday, 2020 
+### Day 0: July 3, Friday, 2020 
 
 **Today's Progress**: I Completed three challenges from freeCodeCamps Basic Algorithm Scripts
 
@@ -8,14 +8,14 @@
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/slice-and-splice
 
-### Day 1: June 4, Saturday, 2020 
+### Day 1: July 4, Saturday, 2020 
 
 **Today's Progress**: I am trying to learn NoSQL (mongoDB and mongoose) and I manage to connect to my DB with out errors. Still a long way to go.
 
 **Thoughts**: Totally New concept, but it was fun as much as it was devastating trying to figure out 30 lines of errors for 10 lines of code. I love coding 😊
 
 
-### Day 2: June 5, Sunday, 2020 
+### Day 2: July 5, Sunday, 2020 
 
 **Today's Progress**: I finsihed freeCodeCamps remaining two challeneges from Baic Scripting Algorithm Module. Getting closer to the certificate.
 
@@ -23,7 +23,7 @@
 
 
 
-### Day 3: June 6, Monday, 2020 
+### Day 3: July 6, Monday, 2020 
 
 **Today's Progress**: I finsihed 35% of freeCodeCamps OOP module.
 
@@ -31,40 +31,40 @@
 
 
 
-### Day 4: June 7, Tuesday, 2020 
+### Day 4: July 7, Tuesday, 2020 
 
 **Today's Progress**: Today I learned about React and JSX. Using sandbox.
 
  
-### Day 5 and 6: June 9, Thursday, 2020 
+### Day 5 and 6: July 9, Thursday, 2020 
 
 **Today's Progress**: I finsihed freeCodeCamps OOP module yeyy.
 
 **Thoughts**: Sometimes you will get stuck, you will feel stupid but it is important to believe in yourself. If u blv in urself nobody can stop u. NOBODY
 
 
-### Day 7: June 10, Friday, 2020 
+### Day 7: July 10, Friday, 2020 
 
 **Today's Progress**: Today I learned about git and some git commands on comand line I have also learned about npm package manager and node to configure lite-server and bootstrap.
 
 **Thoughts**: The command line is a great tool there is I LOVE IT!!
 
 
-### Day 8: June 11, Saturday, 2020 
+### Day 8: July 11, Saturday, 2020 
 
 **Today's Progress**: Today I learned about Boostrap grid, navigatoin, breadcrumbs and icon fonts. 
 
 **Thoughts**: I LOVE BOOTSTRAP!
 
 
-### Day 9: June 12, Sunday, 2020 
+### Day 9: July 12, Sunday, 2020 
 
 **Today's Progress**: Today I learned about Boostrap buttons and forms. Working on an assignment from a course on coursera. 
 
 **Thoughts**: Repetition * Repetition = Mastery.
 
 
-### Day 10: June 13, Monday, 2020 
+### Day 10: July 13, Monday, 2020 
 
 **Today's Progress**: Today I started the functional programming module of fcc's JS Certificate. I completed 25% of this moudle. Functional Programming is a whole new dimension of programming. I struggled a bit in the challenges due to arrays and passing them by reference or by value. Then Googling helped. 
 
@@ -74,40 +74,40 @@
 
 
 
-### Day 11: June 14, Tuesday, 2020 
+### Day 11: July 14, Tuesday, 2020 
 
 **Today's Progress**: Today I continued in the coursera course first module second week and learned about Boostrap alerts, badges, medias and cards.
 
 **Thoughts**: Bootstrap do make things very easy, but you need to visit their documentation so often to remember the class names 🤣. 
 
 
-### Day 12: June 15, Wednesday, 2020 
+### Day 12: July 15, Wednesday, 2020 
 
 **Today's Progress**: Today I finished the second week in the coursera course first module and submitted my assignment which was challenging and it was about Boostrap forms, cards, media-objects and Images.
 
 **Thoughts**: It's not working because u missed a closing tag  for the div you just added. 
 
 
-### Day 13: June 16, Thursday, 2020 
+### Day 13: July 16, Thursday, 2020 
 
 **Today's Progress**: Today I continued on freeCodeCamp funcitonal programming course and reached 63% from 25% quiet challenging but map, filter and reduce are powerful array prototype functions.
 
 **Thoughts**: JS and it's built in functions. So powerful!!  
 
-### Day 14: June 17, Friday, 2020 
+### Day 14: July 17, Friday, 2020 
 
 **Today's Progress**: Today I finished the third week in the coursera course first module and submitted my third assignment which was about Boostrap modals.
 
 **Thoughts**: The best feeling is seeing your first written code execute as it is supposed to.
 
-### Day 15 and 16: June 19, Sunday, 2020 
+### Day 15 and 16: July 19, Sunday, 2020 
 
 **Today's Progress**: Learned about Saas and Less they are a very wonderful tools in the world of css. I have submitted my final assignment for the bootstrap 4 course ... a few lessons left before I get my certificate on the coursera course. I have also Learned about Uglyfication, minification, and a lotfication. Npm scripts are really helpful in automating your work for deployment.
 
 **Thoughts**: It is fun to be a developer.
 
 
-### Day 17: June 20, Monday, 2020 
+### Day 17: July 20, Monday, 2020 
 
 **Today's Progress**:  completed Front-End Web UI Frameworks and Tools: Bootstrap 4 on COursera! Check out my certificate https://coursera.org/share/6ba482a465d016e178518c198586fc67 I am working on a project based on what I learend in the course.
 
@@ -116,7 +116,7 @@
 **Link to work:** https://github.com/EliasB8/Yeneta-Tereka.git
 
 
-### Day 18: June 21, Tueday, 2020 
+### Day 18: July 21, Tueday, 2020 
 
 **Today's Progress**: I completed the project I was working on using bootstrap 4, sass, css, and html and it is fully responsive. It is live on github. It is only front-end but yeyyyy for me!!
 
@@ -125,13 +125,13 @@
 **Link to work:** https://eliasb8.github.io/yeneta-tereka-site/
 
 
-### Day 19: June 22, Wednesday, 2020 
+### Day 19: July 22, Wednesday, 2020 
 
 **Today's Progress**: Today I continued on the functional programming module of @freeCodeCamp and completed the module left with two modules to get my certeficate so excited.
 
 **Thoughts**: Functional Programming make me say this "If I have seen further, it is by standing on the shoulders of giants." 
 
-### Day 20 and 21: June 24, Friday, 2020 
+### Day 20 and 21: July 24, Friday, 2020 
 
 **Today's Progress**: I learned about React from a udemy course by Dr Angela. Succesfully completed most ot the challenge, learned a lot about react hooks and states. The last challenge was applying a functionality on the to do list app.
 
@@ -139,9 +139,15 @@
 
 **Link to Work**: https://zxe0y.csb.app/
 
-### Day 22: June 25, Saturday, 2020 
+### Day 22: July 25, Saturday, 2020 
 
 **Today's Progress**: Today I continued on the Intermidiate Algorithm Scripting module of @freeCodeCamp and completed 4 out of 21 challenges at 19%.It is really interesting and challenging, too many options in array functions.
 
 **Thoughts**: Having multiple choices, could make easy decissions tough. I use array functions a lot I forgot the power of for loops, while loops and things like that.
 
+
+### Day 23: July 26, Saturday, 2020 
+
+**Today's Progress**: Today I finished the first week in the coursera React course and submitted my assignment which was challenging and it was about React components. Man I love React.
+
+**Thoughts**: Stop over Reacting. 
