@@ -146,8 +146,15 @@
 **Thoughts**: Having multiple choices, could make easy decissions tough. I use array functions a lot I forgot the power of for loops, while loops and things like that.
 
 
-### Day 23: July 26, Saturday, 2020 
+### Day 23: July 26, Sunday, 2020 
 
 **Today's Progress**: Today I finished the first week in the coursera React course and submitted my assignment which was challenging and it was about React components. Man I love React.
 
 **Thoughts**: Stop over Reacting. 
+
+
+### Day 24: July 27, Monday, 2020 
+
+**Today's Progress**: Today I continued on the Intermidiate Algorithm Scripting module of @freeCodeCamp and completed 2 more challenges at 29%. Regex are really confusing and tough, I have been googling around a lot and finally manage to takcle two challenges.
+
+**Thoughts**: Regex are challenging. 
