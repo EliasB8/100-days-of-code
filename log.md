@@ -158,3 +158,9 @@
 **Today's Progress**: Today I continued on the Intermidiate Algorithm Scripting module of @freeCodeCamp and completed 2 more challenges at 29%. Regex are really confusing and tough, I have been googling around a lot and finally manage to takcle two challenges.
 
 **Thoughts**: Regex are challenging. 
+
+### Day 25: July 28, Tuesday, 2020 
+
+**Today's Progress**: Today I finished the second week in the coursera React course it was about React Routers. I loved routers and I thought I did understood them very well, but I am having a lot of errors ... may be it is because am tired, will fix them tommorow and submit my second assignment as well.
+
+**Thoughts**: Do NOt STOP!!
