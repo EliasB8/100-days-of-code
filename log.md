@@ -164,3 +164,11 @@
 **Today's Progress**: Today I finished the second week in the coursera React course it was about React Routers. I loved routers and I thought I did understood them very well, but I am having a lot of errors ... may be it is because am tired, will fix them tommorow and submit my second assignment as well.
 
 **Thoughts**: Do NOt STOP!!
+
+### Day 26: July 29, Wednesday, 2020 
+
+**Today's Progress**: Today I submitted the second week assignment in the coursera React course it was about React Routers. It required some googling around about routers and router doms and SPA's
+
+**Thoughts**: SPA is not really a SPA.
+
+
