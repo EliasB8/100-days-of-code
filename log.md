@@ -172,3 +172,10 @@
 **Thoughts**: SPA is not really a SPA.
 
 
+
+### Day 27 and 28: July 31, Friday, 2020 
+
+**Today's Progress**: For the past two days I was learning on both coursera and freecodecamp. Learned about react controlled and uncontrolled forms and client side form validation.Next up is Redux.  Today I managed to solve some of the challenges on the Intermediate Algorithm Scripting section at 52%, half way done excited.
+
+**Thoughts**: Happiness is solving a freecodecamp algorithm challenge.
+
