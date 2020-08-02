@@ -179,3 +179,11 @@
 
 **Thoughts**: Happiness is solving a freecodecamp algorithm challenge.
 
+
+
+### Day 29: August 1, Saturday, 2020 
+
+**Today's Progress**: Today I managed to solve some addtional challenges on the Intermediate Algorithm Scripting section atcurrently at 67%, Almost gettig there.
+
+**Thoughts**: Happiness is solving a freecodecamp algorithm challenge.
+
