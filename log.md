@@ -187,3 +187,10 @@
 
 **Thoughts**: Happiness is solving a freecodecamp algorithm challenge.
 
+
+### Day 30: August 2, Sunday, 2020 
+
+**Today's Progress**: Today I finally finished the Intermediate JS Algorithm and also solved the palindrome project. FOur projects left for this challengin and by far difficult course.
+
+**Thoughts**: I will get there, give me time!!
+
