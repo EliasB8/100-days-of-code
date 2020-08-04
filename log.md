@@ -200,3 +200,10 @@
 **Today's Progress**: Today I solved three very difficult and challenging projects on this certificate the telephone validation being the toughest one so far, ONly one project left for my second certeficate.
 
 **Thoughts**: Regex is easy if you got live regex sites.
+
+
+### Day 32: August 4, Tuesday, 2020 
+
+**Today's Progress**: Finally, I completed JavaScript and Data Structure Algorithms Certificate, it surely need a revision it has been difficult. I made it!!
+
+**Thoughts**: Celebration Time, come on.
