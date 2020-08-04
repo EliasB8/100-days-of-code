@@ -194,3 +194,9 @@
 
 **Thoughts**: I will get there, give me time!!
 
+
+### Day 31: August 3, Monday, 2020 
+
+**Today's Progress**: Today I solved three very difficult and challenging projects on this certificate the telephone validation being the toughest one so far, ONly one project left for my second certeficate.
+
+**Thoughts**: Regex is easy if you got live regex sites.
