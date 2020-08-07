@@ -207,3 +207,10 @@
 **Today's Progress**: Finally, I completed JavaScript and Data Structure Algorithms Certificate, it surely need a revision it has been difficult. I made it!!
 
 **Thoughts**: Celebration Time, come on.
+
+
+### Day 33 and 34: August 6, Thursday, 2020 
+
+**Today's Progress**: I learned about redux and react-reduz from the coursera course and completed the third of the module. Redux seems to simplify state managemnt and form validation. 
+
+**Thoughts**: Never STOP!!
