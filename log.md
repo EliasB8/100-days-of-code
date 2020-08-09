@@ -214,3 +214,10 @@
 **Today's Progress**: I learned about redux and react-reduz from the coursera course and completed the third of the module. Redux seems to simplify state managemnt and form validation. 
 
 **Thoughts**: Never STOP!!
+
+
+### Day 35 and 36: August 8, Saturday, 2020 
+
+**Today's Progress**: I sumbitted Assignment 3 @coursera React course, which is on react-redux forms and form validations. Only one week module and an assignment left for my certeficate ... so excited.
+
+**Thoughts**: Keep Learning!!
