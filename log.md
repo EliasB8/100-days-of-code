@@ -221,3 +221,10 @@
 **Today's Progress**: I sumbitted Assignment 3 @coursera React course, which is on react-redux forms and form validations. Only one week module and an assignment left for my certeficate ... so excited.
 
 **Thoughts**: Keep Learning!!
+
+
+### Day 37: August 9, Sunday, 2020 
+
+**Today's Progress**: Learned about redux actions and thunks. I also learned about middlewares and async actions.
+
+**Thoughts**: Shit is getting REAL!!
