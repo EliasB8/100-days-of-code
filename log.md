@@ -228,3 +228,10 @@
 **Today's Progress**: Learned about redux actions and thunks. I also learned about middlewares and async actions.
 
 **Thoughts**: Shit is getting REAL!!
+
+
+### Day 38: August 10, Monday, 2020 
+
+**Today's Progress**: Learned about REST and how to use json-server node module for creating a REST server. I also learend about fetch along with promises.
+
+**Thoughts**: Promise then catch!!
