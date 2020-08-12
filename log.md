@@ -235,3 +235,9 @@
 **Today's Progress**: Learned about REST and how to use json-server node module for creating a REST server. I also learend about fetch along with promises.
 
 **Thoughts**: Promise then catch!!
+
+
+### Day 39: August 11, Tuesday, 2020 
+
+**Today's Progress**: Learned about fetch POST requests and React animations. Assignment 4 the final assignment of the react course @coursera is next and it seems challenging, we shall see.
+
