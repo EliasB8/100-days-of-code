@@ -241,3 +241,7 @@
 
 **Today's Progress**: Learned about fetch POST requests and React animations. Assignment 4 the final assignment of the react course @coursera is next and it seems challenging, we shall see.
 
+
+### Day 40: August 12, Wednesday, 2020 
+
+**Today's Progress**: Finished and Submitted Assignment 4 of the React course @coursera Full-stack Web dev wiz React Specialization course. Waiting for peer review for my certificate.
