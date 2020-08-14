@@ -245,3 +245,11 @@
 ### Day 40: August 12, Wednesday, 2020 
 
 **Today's Progress**: Finished and Submitted Assignment 4 of the React course @coursera Full-stack Web dev wiz React Specialization course. Waiting for peer review for my certificate.
+
+
+### Day 41: August 13, Thursday, 2020 
+
+**Today's Progress**: Finished Bootstrap and jQuery module from Fron-End Libraries certificate @freecodecamp. Next up Saas this certificate is not gonna take much since I am faimiliar with most of the libraries ... we shall see.
+
+**Thoughts**: Baby Steps ...
+
