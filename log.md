@@ -253,3 +253,8 @@
 
 **Thoughts**: Baby Steps ...
 
+
+### Day 42: August 15, Saturday, 2020 
+
+**Today's Progress**: I take a break yesterfay. Today I Finished Sass module from Fron-End Libraries certificate @freecodecamp. Next up React.
+
