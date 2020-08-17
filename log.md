@@ -258,3 +258,8 @@
 
 **Today's Progress**: I take a break yesterfay. Today I Finished Sass module from Fron-End Libraries certificate @freecodecamp. Next up React.
 
+
+### Day 43: August 16, Sunday, 2020 
+
+**Today's Progress**: Today I started the React module and completed 23% of the challenges from Front-End Libraries certificate @freecodecamp.
+
