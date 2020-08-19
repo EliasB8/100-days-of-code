@@ -268,3 +268,9 @@
 
 **Today's Progress**: Today I continued on the React module and reached 55% of the challenges from Front-End Libraries certificate @freecodecamp.
 
+
+### Day 45: August 18, Tueday, 2020 
+
+**Today's Progress**: Today I continued on the React module and reached 81% of the challenges from Front-End Libraries certificate @freecodecamp.Almost done with React!
+
+
