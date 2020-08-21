@@ -279,3 +279,10 @@
 **Today's Progress**: Today I completed the React module from Front-End Libraries certificate @freecodecamp. Next up Redux. I love this module I learned a lot I cannot thank you enough @oissa and fcc.
 
 **Thoughts**: The best is yet to come.
+
+
+### Day 47: August 20, Thursday, 2020 
+
+**Today's Progress**: Today I completed the Redux module from Front-End Libraries certificate @freecodecamp. Next up React-Redux the final module before the projects. So excited to work on the projects and get my third certitifcate. 
+
+**Thoughts**: Keep Progressing...
