@@ -286,3 +286,8 @@
 **Today's Progress**: Today I completed the Redux module from Front-End Libraries certificate @freecodecamp. Next up React-Redux the final module before the projects. So excited to work on the projects and get my third certitifcate. 
 
 **Thoughts**: Keep Progressing...
+
+
+### Day 48: August 21, Friday, 2020 
+
+**Today's Progress**: Today I completed the React-Redux module from Front-End Libraries certificate @freecodecamp. Working on Random Quote Generator project almost 50% done I will hopefully finish it by tomorrow. 
