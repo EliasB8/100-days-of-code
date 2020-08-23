@@ -291,3 +291,8 @@
 ### Day 48: August 21, Friday, 2020 
 
 **Today's Progress**: Today I completed the React-Redux module from Front-End Libraries certificate @freecodecamp. Working on Random Quote Generator project almost 50% done I will hopefully finish it by tomorrow. 
+
+
+### Day 49 and 50: August 22 and 23, Sunday, 2020 
+
+**Today's Progress**: I completed the Random Quote Generator project from Front-End Libraries certificate @freecodecamp projects. Here is the link ... https://bmebi.csb.app/
