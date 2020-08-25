@@ -296,3 +296,8 @@
 ### Day 49 and 50: August 22 and 23, Sunday, 2020 
 
 **Today's Progress**: I completed the Random Quote Generator project from Front-End Libraries certificate @freecodecamp projects. Here is the link ... https://bmebi.csb.app/
+
+
+### Day 51: August 24 Monday, 2020
+
+**Today's Progress**: I am working on the React Markdown Generator project from Front-End Libraries certificate @freecodecamp projects. Here is my progress link ... https://l4p2p.csb.app/ I will hopefully finish it tomorrow. 
