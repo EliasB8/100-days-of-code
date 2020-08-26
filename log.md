@@ -301,3 +301,8 @@
 ### Day 51: August 24 Monday, 2020
 
 **Today's Progress**: I am working on the React Markdown Generator project from Front-End Libraries certificate @freecodecamp projects. Here is my progress link ... https://l4p2p.csb.app/ I will hopefully finish it tomorrow. 
+
+
+### Day 52: August 25 Tuesday, 2020
+
+**Today's Progress**: I completed the Markdown generator and I am working on the Drum Machine project from z Front-End Libraries certificate @freecodecamp projects. Here r the links ... https://ccm9c.csb.app/ & https://fu0vc.csb.app/
