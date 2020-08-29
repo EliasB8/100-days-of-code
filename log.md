@@ -308,9 +308,14 @@
 **Today's Progress**: I completed the Markdown generator and I am working on the Drum Machine project from z Front-End Libraries certificate @freecodecamp projects. Here r the links ... https://ccm9c.csb.app/ & https://fu0vc.csb.app/
 
 
-### Day 53 - 54: August 27 Wednesday, 2020
+### Day 53 - 54: August 27 Thursday, 2020
 
 **Today's Progress**: I struglled a lot with the Drum Machine project @freecodecamp ... but am getting there a few details reamianing hope I will complete it tommorrow. 
 
 **Thoughts**: Me - I understand Redxu.
 Also me - Trying to apply redux  to a project(Redux is too complicated) LOL
+
+
+### Day 55: August 28 Friday, 2020
+
+**Today's Progress**: I finaly compleeted the Drum Machine Project @freeocedcamp ... 2 more projects left. Here is the link any feedback is accpeted => https://fu0vc.csb.app/
