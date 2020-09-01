@@ -323,7 +323,11 @@ Also me - Trying to apply redux  to a project(Redux is too complicated) LOL
 
 ### Day 56 - 57: August 30 Sunday, 2020
 
-**Today's Progress**: I am working on the JS calculator project @freecodecamp Fron-End Librariries module ... I am almost done with UI part ... () => <Link link={"https://jq1d5.csb.app/"}/>
+**Today's Progress**: I am worked on the JS calculator project @freecodecamp Fron-End Librariries module ... I am almost done with UI part ... () => <Link link={"https://jq1d5.csb.app/"}/>
 
 **Thoughts**: Never give in!!
 
+
+### Day 58: August 31 Monday, 2020
+
+**Today's Progress**: I am worked on the JS Calculator project @freecodecamp Fron-End Librariries module ... still a long way to go ...!
