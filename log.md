@@ -336,3 +336,9 @@ Also me - Trying to apply redux  to a project(Redux is too complicated) LOL
 ### Day 59: September 1 Tuesday, 2020
 
 **Today's Progress**: I worked on the JS Calculator project @freecodecamp Fron-End Librariries module ... and it is killing me idk why the test validate it when the iyput is correct ... may b there is a bug!!! grrrrrrrrrr
+
+
+
+### Day 60: September 2 Wednesday, 2020
+
+**Today's Progress**: I finally complete the JS Calculator project @freecodecamp Front-End Libraries module ... Next up POMODOR CLOCK!! The last one ... yey!
