@@ -342,3 +342,11 @@ Also me - Trying to apply redux  to a project(Redux is too complicated) LOL
 ### Day 60: September 2 Wednesday, 2020
 
 **Today's Progress**: I finally complete the JS Calculator project @freecodecamp Front-End Libraries module ... Next up POMODOR CLOCK!! The last one ... yey!
+
+
+
+### Day 61 - 62: September 4 Friday, 2020
+
+**Today's Progress**: I worked on the Pomodoro Clock project @freecodecamp Front-End Librariries module ... I almost done with UI part ... () => <Link link={"https://2u966.csb.app/"}/>
+
+
