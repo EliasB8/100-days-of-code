@@ -350,3 +350,11 @@ Also me - Trying to apply redux  to a project(Redux is too complicated) LOL
 **Today's Progress**: I worked on the Pomodoro Clock project @freecodecamp Front-End Librariries module ... I almost done with UI part ... () => <Link link={"https://2u966.csb.app/"}/>
 
 
+### Day 63 - 65: September 7 Monday, 2020
+
+**Today's Progress**: For the whole three days after going up and down I completed the Pomodoro Clock project @freecodecamp and got my Front-End Librariries certificate.
+
+() => <Link link={"https://2u966.csb.app/"}/>
+
+
+**Thoughts**: Celebration time baby!!
