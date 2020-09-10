@@ -358,3 +358,8 @@ Also me - Trying to apply redux  to a project(Redux is too complicated) LOL
 
 
 **Thoughts**: Celebration time baby!!
+
+
+### Day 66: September 9 Wednesday, 2020
+
+**Today's Progress**: I took a well-deserverd day off yesterday but today I am back at it revising my porfolio adding some cool text type effects and things like ... still a working progress.
