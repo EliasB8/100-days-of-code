@@ -369,3 +369,9 @@ Also me - Trying to apply redux  to a project(Redux is too complicated) LOL
 
 **Today's Progress**: I am working on updating my portofolio website. here is the link still not done!
 https://eliasb8.github.io/Elias-Ferede-Portfolio/
+
+
+### Day 68: September 11 Thursday, 2020
+
+**Today's Progress**: I am still working on updating my portofolio website. here is the link getting more better ... still not done!
+https://eliasb8.github.io/Elias-Ferede-Portfolio/
