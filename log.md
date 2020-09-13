@@ -371,7 +371,12 @@ Also me - Trying to apply redux  to a project(Redux is too complicated) LOL
 https://eliasb8.github.io/Elias-Ferede-Portfolio/
 
 
-### Day 68: September 11 Thursday, 2020
+### Day 68: September 11 Friday, 2020
 
 **Today's Progress**: I am still working on updating my portofolio website. here is the link getting more better ... still not done!
 https://eliasb8.github.io/Elias-Ferede-Portfolio/
+
+
+### Day 69: September 12 Saturday, 2020
+
+**Today's Progress**: I completed my portofolio website fully repsonsive and build from scratch. https://eliasb8.github.io/Elias-Ferede-Portfolio/
