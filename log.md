@@ -380,3 +380,9 @@ https://eliasb8.github.io/Elias-Ferede-Portfolio/
 ### Day 69: September 12 Saturday, 2020
 
 **Today's Progress**: I completed my portofolio website fully repsonsive and build from scratch. https://eliasb8.github.io/Elias-Ferede-Portfolio/
+
+
+### Day 70 - 71: September 14 Monday, 2020
+
+**Today's Progress**: This two days were all about refactoring all my projects and codes. I realised how much I know now and how long I come from ... It is always great to refactor your code.
+
