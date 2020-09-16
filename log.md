@@ -386,3 +386,8 @@ https://eliasb8.github.io/Elias-Ferede-Portfolio/
 
 **Today's Progress**: This two days were all about refactoring all my projects and codes. I realised how much I know now and how long I come from ... It is always great to refactor your code.
 
+
+### Day 72: September 15 Tuesday, 2020
+
+**Today's Progress**: I started Data Visualzation Certificate from @freecodecamp and completed 62% of the first module D3 is a wonderful library for data visualizations. I loved it!!
+
