@@ -391,3 +391,8 @@ https://eliasb8.github.io/Elias-Ferede-Portfolio/
 
 **Today's Progress**: I started Data Visualzation Certificate from @freecodecamp and completed 62% of the first module D3 is a wonderful library for data visualizations. I loved it!!
 
+
+### Day 73: September 16 Wednesday, 2020
+
+**Today's Progress**: I completed the first module and 50% done from the AJAX AND JSON module of the Data Visualzation Certificate from @freecodecamp. SVG and D3 is some next level data plotting ... AWESOME!!
+
