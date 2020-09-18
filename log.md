@@ -396,3 +396,7 @@ https://eliasb8.github.io/Elias-Ferede-Portfolio/
 
 **Today's Progress**: I completed the first module and 50% done from the AJAX AND JSON module of the Data Visualzation Certificate from @freecodecamp. SVG and D3 is some next level data plotting ... AWESOME!!
 
+
+### Day 74: September 17 Thursday, 2020
+
+**Today's Progress**: I completed the Data Visualzation Certificate module from @freecodecamp. Now it is time to do the 5 projects ... can't wait!!
