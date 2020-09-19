@@ -400,3 +400,8 @@ https://eliasb8.github.io/Elias-Ferede-Portfolio/
 ### Day 74: September 17 Thursday, 2020
 
 **Today's Progress**: I completed the Data Visualzation Certificate module from @freecodecamp. Now it is time to do the 5 projects ... can't wait!!
+
+
+### Day 75: September 18 Friday, 2020
+
+**Today's Progress**: Okay so d3 is one of those concepts that you thought you understand but you have to go trhough to complete a project. Am working on the first project a bar chat ... still stuck zo!
