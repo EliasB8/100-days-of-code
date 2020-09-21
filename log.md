@@ -405,3 +405,9 @@ https://eliasb8.github.io/Elias-Ferede-Portfolio/
 ### Day 75: September 18 Friday, 2020
 
 **Today's Progress**: Okay so d3 is one of those concepts that you thought you understand but you have to go trhough to complete a project. Am working on the first project a bar chat ... still stuck zo!
+
+
+### Day 76 - 77: September 19 - 20 Saturday - Sunday, 2020
+
+**Today's Progress**: Okay so I have been trying to figure out how to do the first project and I some how manage to get here for the past two days. It is still a working progress but at least there is some visualization!!
+
