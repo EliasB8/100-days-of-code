@@ -411,3 +411,7 @@ https://eliasb8.github.io/Elias-Ferede-Portfolio/
 
 **Today's Progress**: Okay so I have been trying to figure out how to do the first project and I some how manage to get here for the past two days. It is still a working progress but at least there is some visualization!!
 
+
+### Day 78: September 21 Monday, 2020
+
+**Today's Progress**: Finally, I manage to complete the first project of the d3 module @freecodecamp. It assed all the tests but It will need some better styling which I will do it tommorow. Here is the link => https://codepen.io/EliasB8/full/YzqJQrj
