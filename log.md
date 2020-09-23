@@ -415,3 +415,8 @@ https://eliasb8.github.io/Elias-Ferede-Portfolio/
 ### Day 78: September 21 Monday, 2020
 
 **Today's Progress**: Finally, I manage to complete the first project of the d3 module @freecodecamp. It assed all the tests but It will need some better styling which I will do it tommorow. Here is the link => https://codepen.io/EliasB8/full/YzqJQrj
+
+
+### Day 79: September 22 Tuesday, 2020
+
+**Today's Progress**: I completed the first project of the d3 module @freecodecamp.Changed the style, feel and look of it somehow and It is hosted on github Here is the link => https://eliasb8.github.io/US-GDP-Bar-Chart/
