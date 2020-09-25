@@ -425,3 +425,7 @@ https://eliasb8.github.io/Elias-Ferede-Portfolio/
 ### Day 80: September 23 Wednesday, 2020
 
 **Today's Progress**: I have been working on the second project of the d3 module @freecodecamp. It is challengig specially scaling time, I manage to get the scatterplots where I want them to be, but still I could not pass all the tests ... will try tommorow. Here is the link though:- https://codepen.io/eliasb8-the-reactor/full/OJNdLMM
+
+
+### Day 81: September 24 Thursday, 2020
+**Today's Progress**: I continued working on the scatterplot project and I am almost done, left with tooltip and legend! It is fun working with d3 I love it!! 
