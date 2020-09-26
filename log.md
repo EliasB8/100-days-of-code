@@ -429,3 +429,9 @@ https://eliasb8.github.io/Elias-Ferede-Portfolio/
 
 ### Day 81: September 24 Thursday, 2020
 **Today's Progress**: I continued working on the scatterplot project and I am almost done, left with tooltip and legend! It is fun working with d3 I love it!! 
+
+
+### Day 82: September 25 Friday, 2020
+**Today's Progress**: I completed the scatterplot project. And now it is live ... 2 down 3 more to go for Data Visualization cert @freeCodeCamp ... Projects Getting tougher and me feeling CONFIDENT!! 
+
+Here is th link https://eliasb8.github.io/visualize-data-with-a-scatterplot-graph/
