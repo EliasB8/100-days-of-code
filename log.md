@@ -435,3 +435,7 @@ https://eliasb8.github.io/Elias-Ferede-Portfolio/
 **Today's Progress**: I completed the scatterplot project. And now it is live ... 2 down 3 more to go for Data Visualization cert @freeCodeCamp ... Projects Getting tougher and me feeling CONFIDENT!! 
 
 Here is th link https://eliasb8.github.io/visualize-data-with-a-scatterplot-graph/
+
+
+### Day 83 - 84: September 25 Sunday, 2020
+**Today's Progress**: I reviewed my React knowledge and Refactored my codes on git hub. It is time to learn more about React Hooks, after completing the Data Visualization cert @freecodecamp.
