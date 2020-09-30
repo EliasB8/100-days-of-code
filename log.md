@@ -437,5 +437,9 @@ https://eliasb8.github.io/Elias-Ferede-Portfolio/
 Here is th link https://eliasb8.github.io/visualize-data-with-a-scatterplot-graph/
 
 
-### Day 83 - 84: September 25 Sunday, 2020
+### Day 83 - 84: September 27 Sunday, 2020
 **Today's Progress**: I reviewed my React knowledge and Refactored my codes on git hub. It is time to learn more about React Hooks, after completing the Data Visualization cert @freecodecamp.
+
+
+### Day 85: September 29 Tuesday, 2020
+**Today's Progress**: I took a day off yesterday, and today I started working on the Heat Map ptoject @freecodecamp. The stage is done the scaling and the axis next plotting the heat map ... will continue tomorrow.
