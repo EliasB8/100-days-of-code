@@ -443,3 +443,7 @@ Here is th link https://eliasb8.github.io/visualize-data-with-a-scatterplot-grap
 
 ### Day 85: September 29 Tuesday, 2020
 **Today's Progress**: I took a day off yesterday, and today I started working on the Heat Map ptoject @freecodecamp. The stage is done the scaling and the axis next plotting the heat map ... will continue tomorrow.
+
+
+### Day 86: September 30 Wednesday, 2020
+**Today's Progress**: I worked on the HeatMap project and managed to pass 13/18 tests and counting ... I manage to get the overall data with a few things left to do including some dynamic fill color for the maps and a legend ... will continue tmw.
