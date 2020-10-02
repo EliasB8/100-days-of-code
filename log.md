@@ -451,3 +451,8 @@ Here is th link https://eliasb8.github.io/visualize-data-with-a-scatterplot-grap
 
 ### Day 87: October 1 Thursday, 2020
 **Today's Progress**: I worked on the HeatMap project and managed to pass 18/18 test. I can submit now but I wanted to add some legend text and some description and some UI. Here is the link => https://codepen.io/eliasb8-the-reactor/full/JjXVxdr
+
+
+### Day 88: October 2 Friday, 2020
+**Today's Progress**: I completed the HeatMap project. Here is the link on github https://eliasb8.github.io/D3-Heat-Map-Monthly-Global-Land-Surface-Temperature/
+Next up Visualize Data with a Choropleth Map. 
