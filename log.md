@@ -447,3 +447,7 @@ Here is th link https://eliasb8.github.io/visualize-data-with-a-scatterplot-grap
 
 ### Day 86: September 30 Wednesday, 2020
 **Today's Progress**: I worked on the HeatMap project and managed to pass 13/18 tests and counting ... I manage to get the overall data with a few things left to do including some dynamic fill color for the maps and a legend ... will continue tmw.
+
+
+### Day 87: October 1 Thursday, 2020
+**Today's Progress**: I worked on the HeatMap project and managed to pass 18/18 test. I can submit now but I wanted to add some legend text and some description and some UI. Here is the link => https://codepen.io/eliasb8-the-reactor/full/JjXVxdr
