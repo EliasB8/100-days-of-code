@@ -456,3 +456,7 @@ Here is th link https://eliasb8.github.io/visualize-data-with-a-scatterplot-grap
 ### Day 88: October 2 Friday, 2020
 **Today's Progress**: I completed the HeatMap project. Here is the link on github https://eliasb8.github.io/D3-Heat-Map-Monthly-Global-Land-Surface-Temperature/
 Next up Visualize Data with a Choropleth Map. 
+
+
+### Day 89: October 3 Saturday, 2020
+**Today's Progress**: I am working on the Visualizing Data with a Choropleth Map @freecodecamp. 10 tests passed out of 12. A lot of staff idk about d3 still though ... So you can draw a map from a json file huh? cool! 
