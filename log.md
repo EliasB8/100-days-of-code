@@ -460,3 +460,7 @@ Next up Visualize Data with a Choropleth Map.
 
 ### Day 89: October 3 Saturday, 2020
 **Today's Progress**: I am working on the Visualizing Data with a Choropleth Map @freecodecamp. 10 tests passed out of 12. A lot of staff idk about d3 still though ... So you can draw a map from a json file huh? cool! 
+
+
+### Day 90: October 4 Sunday, 2020
+**Today's Progress**: I am completed the Visualizing Data with a Choropleth Map @freecodecamp. 4 down 1 more to go for yet another certificate. Excited about the last project. And I am on Day 90 of 100 Days of Code. Feeling proud!! Here is the link => https://eliasb8.github.io/d3-visualize-data-with-a-choropleth-map/
