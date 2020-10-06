@@ -469,3 +469,7 @@ Next up Visualize Data with a Choropleth Map.
 ### Day 91: October 5 Monday, 2020
 **Today's Progress**: I am working the last project of the Data visulaization certificate. A tree Map for top 100 movies sold categorized by genre. I am left with the legend. Here is the link => https://codepen.io/EliasB8/full/VwaoNpZ
 
+
+### Day 92: October 6 Tuesday, 2020
+**Today's Progress**: I am completed the treemap project and obtained my Data Visualiztion Certificate. Next up API and Microservices. Here is my treemap project => https://eliasb8.github.io/d3-visualize-data-with-a-treemap-diagram/
+
