@@ -473,3 +473,8 @@ Next up Visualize Data with a Choropleth Map.
 ### Day 92: October 6 Tuesday, 2020
 **Today's Progress**: I am completed the treemap project and obtained my Data Visualiztion Certificate. Next up API and Microservices. Here is my treemap project => https://eliasb8.github.io/d3-visualize-data-with-a-treemap-diagram/
 
+
+### Day 93: October 7 Wednesday, 2020
+**Today's Progress**: I started the Back End cert which is the API and Microservices course on freeCodeCamp and learned about npm node and some bit of express. Some impressive back end staff .... Loving it.
+
+
