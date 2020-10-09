@@ -478,3 +478,5 @@ Next up Visualize Data with a Choropleth Map.
 **Today's Progress**: I started the Back End cert which is the API and Microservices course on freeCodeCamp and learned about npm node and some bit of express. Some impressive back end staff .... Loving it.
 
 
+### Day 94: October 8 Thursday, 2020
+**Today's Progress**: I continued on the BASIC NODE and EXPRESS module learned about environment file and serving static files on express. 
