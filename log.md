@@ -480,3 +480,7 @@ Next up Visualize Data with a Choropleth Map.
 
 ### Day 94: October 8 Thursday, 2020
 **Today's Progress**: I continued on the BASIC NODE and EXPRESS module learned about environment file and serving static files on express. 
+
+
+### Day 95: October 9 Friday, 2020
+**Today's Progress**: I completed the Basic Express and node modules secion from API and Microservices cert @freecodecamp next up MongoDB and Mongoose...!!
