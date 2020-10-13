@@ -484,3 +484,7 @@ Next up Visualize Data with a Choropleth Map.
 
 ### Day 95: October 9 Friday, 2020
 **Today's Progress**: I completed the Basic Express and node modules secion from API and Microservices cert @freecodecamp next up MongoDB and Mongoose...!!
+
+
+### Day 96: October 12 Monday, 2020
+**Today's Progress**: I was unable to to work on the weekneds but I spent over 6 hours today and completed 58% of the MongoDB - Mongoose module, from the CRUD operations I completed the CR, UD will be covered tomorrow.
