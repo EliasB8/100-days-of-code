@@ -488,3 +488,7 @@ Next up Visualize Data with a Choropleth Map.
 
 ### Day 96: October 12 Monday, 2020
 **Today's Progress**: I was unable to to work on the weekneds but I spent over 6 hours today and completed 58% of the MongoDB - Mongoose module, from the CRUD operations I completed the CR, UD will be covered tomorrow.
+
+
+### Day 97: October 13 Tuesday, 2020
+**Today's Progress**: I completed the API and Microservices Cert courses. MongooDB and Mongoose is fun to work with, next up the 5 projects. Let us go get it!!
