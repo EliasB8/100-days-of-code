@@ -492,3 +492,7 @@ Next up Visualize Data with a Choropleth Map.
 
 ### Day 97: October 13 Tuesday, 2020
 **Today's Progress**: I completed the API and Microservices Cert courses. MongooDB and Mongoose is fun to work with, next up the 5 projects. Let us go get it!!
+
+
+### Day 98: October 14 Wednesday, 2020
+**Today's Progress**: I revised Node.js and Express in order to prepare for my first project @freecodecamp API and Microservices cert. Now am ready to go and nail the project. And day 98 only 2 days left for 100 woow!
