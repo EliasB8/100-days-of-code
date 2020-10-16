@@ -496,3 +496,12 @@ Next up Visualize Data with a Choropleth Map.
 
 ### Day 98: October 14 Wednesday, 2020
 **Today's Progress**: I revised Node.js and Express in order to prepare for my first project @freecodecamp API and Microservices cert. Now am ready to go and nail the project. And day 98 only 2 days left for 100 woow!
+
+
+### Day 99: October 15, Thursday, 2020 
+
+**Today's Progress**: I completed the first two project from API and Microservices cert @freecodecamp. They were easy projects, I am sure the projects are gonna get tougher. Also tomorrow is my 100th day.
+
+**Thoughts**: Celebration time come on!!!!!!!!!!!!!
+
+**Link to work:** https://headerparser.eliasferede.repl.co/   https://timestamp.eliasferede.repl.co/
