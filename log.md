@@ -505,3 +505,12 @@ Next up Visualize Data with a Choropleth Map.
 **Thoughts**: Celebration time come on!!!!!!!!!!!!!
 
 **Link to work:** https://headerparser.eliasferede.repl.co/   https://timestamp.eliasferede.repl.co/
+
+
+
+### Day 100: October 16, Friday, 2020 
+
+**Today's Progress**: I worked on refactoring and organizing all the projects I have done from Day 0 to Day 99. It is my 100th day of 100 Days of Code it was an amazing journey and looking back at day 0, I have learned a lot, gained a lot and progressed a lot. I want to thank everyone that helped me to reach my 100th day. Thank you to twitter, the Dev community, 100 days of code, freecodecamp, google, stackoverflow, youtube and coursera. I am sure I will do Round 2 in the near future, because it is a great way to build a habit. But now it is time for celebration and some day off's ....
+**Thoughts**: Celebration time come on!!!!!!!!!!!!!
+
+**Link to work:** https://headerparser.eliasferede.repl.co/   https://timestamp.eliasferede.repl.co/
